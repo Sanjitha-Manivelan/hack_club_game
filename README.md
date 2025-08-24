@@ -8,4 +8,4 @@ I wanted to make a game where you have to think critically and be fun!
 
 I made this project by learning about how the magic square game works and then coding it out through trial and error in python!
 
-I struggled on making the game check if the sum of the numbers in each row, column, and diagonals were the same, making sure each number was unique, and making sure they put numbers in different columns!
+I struggled on making the game check if the sum of the numbers in each row, column, and diagonals were the same, making sure each number was unique, and making sure they put numbers in different columns! I learned how to interconnect multiple functions!
